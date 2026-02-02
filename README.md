@@ -6,11 +6,11 @@ A collection of my data related projects
   - [Tableau](#Tableau)
   - [Excel](#Excel)
 
-#SQL
+SQL
   -
-#Python
+Python
   -
-#Tableau
+Tableau
   -
-#Excel
+Excel
   -
