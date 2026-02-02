@@ -7,10 +7,10 @@ A collection of my data related projects
   - [Excel](#Excel)
 
 #SQL
-
+  -
 #Python
-
+  -
 #Tableau
-
+  -
 #Excel
   -
