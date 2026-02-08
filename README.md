@@ -16,4 +16,4 @@ Python
 Tableau
   -
 Excel
-  -
+  -|[Coffee Sales Project](https://github.com/KertC55/Coffee-Sales-Excel-Project)| Excel | Light cleanup and visulization for a small coffee shop from 2019-2022|
