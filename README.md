@@ -18,7 +18,7 @@ Python
 Tableau
 | Project Link | Tools Used | Project Description |
 |---|---|---|
-  -
+  -|[British Airways Project](https://github.com/KertC55/BritishAirwaysReview/blob/main/README.md)|Tableau|A modified project from Mo Cheng exploring British Airways data from 2016-2022|
 Excel
 | Project Link | Tools Used | Project Description |
 |---|---|---|
